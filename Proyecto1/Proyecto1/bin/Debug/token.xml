@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Lista_Token>
+  <token>
+    <Nombre>Comentario de linea</Nombre>
+    <Valor>//Definicion de mis conjuntos 
+</Valor>
+    <Fila>1</Fila>
+    <Columna>0</Columna>
+  </token>
+  <token>
+    <Nombre>Reservada</Nombre>
+    <Valor>CONJ</Valor>
+    <Fila>1</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>Dos puntos </Nombre>
+    <Valor>:</Valor>
+    <Fila>1</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>digito</Valor>
+    <Fila>1</Fila>
+    <Columna>12</Columna>
+  </token>
+  <token>
+    <Nombre>flecha </Nombre>
+    <Valor>-&gt;</Valor>
+    <Fila>1</Fila>
+    <Columna>14</Columna>
+  </token>
+  <token>
+    <Nombre>numero</Nombre>
+    <Valor>1</Valor>
+    <Fila>1</Fila>
+    <Columna>17</Columna>
+  </token>
+  <token>
+    <Nombre>simbolo </Nombre>
+    <Valor>~</Valor>
+    <Fila>1</Fila>
+    <Columna>17</Columna>
+  </token>
+  <token>
+    <Nombre>numero</Nombre>
+    <Valor>9</Valor>
+    <Fila>1</Fila>
+    <Columna>19</Columna>
+  </token>
+  <token>
+    <Nombre>punto y coma </Nombre>
+    <Valor>;</Valor>
+    <Fila>1</Fila>
+    <Columna>19</Columna>
+  </token>
+  <token>
+    <Nombre>Reservada</Nombre>
+    <Valor>CONJ</Valor>
+    <Fila>2</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>Dos puntos </Nombre>
+    <Valor>:</Valor>
+    <Fila>2</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>letra</Valor>
+    <Fila>2</Fila>
+    <Columna>11</Columna>
+  </token>
+  <token>
+    <Nombre>flecha </Nombre>
+    <Valor>-&gt;</Valor>
+    <Fila>2</Fila>
+    <Columna>13</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>a</Valor>
+    <Fila>2</Fila>
+    <Columna>16</Columna>
+  </token>
+  <token>
+    <Nombre>simbolo </Nombre>
+    <Valor>~</Valor>
+    <Fila>2</Fila>
+    <Columna>16</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>z</Valor>
+    <Fila>2</Fila>
+    <Columna>18</Columna>
+  </token>
+  <token>
+    <Nombre>punto y coma </Nombre>
+    <Valor>;</Valor>
+    <Fila>2</Fila>
+    <Columna>18</Columna>
+  </token>
+  <token>
+    <Nombre>comentario multilinea</Nombre>
+    <Valor>&lt;!
+	Expresiones regulares basica, intermedia, avanzada
+!&gt;</Valor>
+    <Fila>6</Fila>
+    <Columna>2</Columna>
+  </token>
+  <token>
+    <Nombre>Comentario de linea</Nombre>
+    <Valor>//Expresiones Regulares
+</Valor>
+    <Fila>9</Fila>
+    <Columna>0</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>er1</Valor>
+    <Fila>9</Fila>
+    <Columna>3</Columna>
+  </token>
+  <token>
+    <Nombre>flecha </Nombre>
+    <Valor>-&gt;</Valor>
+    <Fila>9</Fila>
+    <Columna>5</Columna>
+  </token>
+  <token>
+    <Nombre>Concatenacion </Nombre>
+    <Valor>.</Valor>
+    <Fila>9</Fila>
+    <Columna>7</Columna>
+  </token>
+  <token>
+    <Nombre>Llave Izquierda </Nombre>
+    <Valor>{</Valor>
+    <Fila>9</Fila>
+    <Columna>9</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>letra</Valor>
+    <Fila>9</Fila>
+    <Columna>15</Columna>
+  </token>
+  <token>
+    <Nombre>Llave Derecha </Nombre>
+    <Valor>}</Valor>
+    <Fila>9</Fila>
+    <Columna>15</Columna>
+  </token>
+  <token>
+    <Nombre>concatenacion </Nombre>
+    <Valor>*</Valor>
+    <Fila>9</Fila>
+    <Columna>17</Columna>
+  </token>
+  <token>
+    <Nombre>disyuncion </Nombre>
+    <Valor>|</Valor>
+    <Fila>9</Fila>
+    <Columna>18</Columna>
+  </token>
+  <token>
+    <Nombre>Llave Izquierda </Nombre>
+    <Valor>{</Valor>
+    <Fila>9</Fila>
+    <Columna>19</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>letra</Valor>
+    <Fila>9</Fila>
+    <Columna>25</Columna>
+  </token>
+  <token>
+    <Nombre>Llave Derecha </Nombre>
+    <Valor>}</Valor>
+    <Fila>9</Fila>
+    <Columna>25</Columna>
+  </token>
+  <token>
+    <Nombre>disyuncion </Nombre>
+    <Valor>|</Valor>
+    <Fila>9</Fila>
+    <Columna>27</Columna>
+  </token>
+  <token>
+    <Nombre>Llave Izquierda </Nombre>
+    <Valor>{</Valor>
+    <Fila>9</Fila>
+    <Columna>30</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>digito</Valor>
+    <Fila>9</Fila>
+    <Columna>37</Columna>
+  </token>
+  <token>
+    <Nombre>Llave Derecha </Nombre>
+    <Valor>}</Valor>
+    <Fila>9</Fila>
+    <Columna>37</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"_"</Valor>
+    <Fila>9</Fila>
+    <Columna>42</Columna>
+  </token>
+  <token>
+    <Nombre>punto y coma </Nombre>
+    <Valor>;</Valor>
+    <Fila>9</Fila>
+    <Columna>42</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>er2</Valor>
+    <Fila>10</Fila>
+    <Columna>3</Columna>
+  </token>
+  <token>
+    <Nombre>flecha </Nombre>
+    <Valor>-&gt;</Valor>
+    <Fila>10</Fila>
+    <Columna>5</Columna>
+  </token>
+  <token>
+    <Nombre>Concatenacion </Nombre>
+    <Valor>.</Valor>
+    <Fila>10</Fila>
+    <Columna>7</Columna>
+  </token>
+  <token>
+    <Nombre>Concatenacion </Nombre>
+    <Valor>.</Valor>
+    <Fila>10</Fila>
+    <Columna>9</Columna>
+  </token>
+  <token>
+    <Nombre>Concatenacion </Nombre>
+    <Valor>.</Valor>
+    <Fila>10</Fila>
+    <Columna>11</Columna>
+  </token>
+  <token>
+    <Nombre>concatenacion </Nombre>
+    <Valor>*</Valor>
+    <Fila>10</Fila>
+    <Columna>13</Columna>
+  </token>
+  <token>
+    <Nombre>disyuncion </Nombre>
+    <Valor>|</Valor>
+    <Fila>10</Fila>
+    <Columna>14</Columna>
+  </token>
+  <token>
+    <Nombre>Concatenacion </Nombre>
+    <Valor>.</Valor>
+    <Fila>10</Fila>
+    <Columna>16</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"c"</Valor>
+    <Fila>10</Fila>
+    <Columna>20</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"d"</Valor>
+    <Fila>10</Fila>
+    <Columna>23</Columna>
+  </token>
+  <token>
+    <Nombre>Concatenacion </Nombre>
+    <Valor>.</Valor>
+    <Fila>10</Fila>
+    <Columna>24</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"a"</Valor>
+    <Fila>10</Fila>
+    <Columna>29</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"b"</Valor>
+    <Fila>10</Fila>
+    <Columna>33</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"b"</Valor>
+    <Fila>10</Fila>
+    <Columna>37</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"c"</Valor>
+    <Fila>10</Fila>
+    <Columna>41</Columna>
+  </token>
+  <token>
+    <Nombre>más </Nombre>
+    <Valor>+</Valor>
+    <Fila>10</Fila>
+    <Columna>42</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"d"</Valor>
+    <Fila>10</Fila>
+    <Columna>46</Columna>
+  </token>
+  <token>
+    <Nombre>comentario multilinea</Nombre>
+    <Valor>&lt;!
+	Definicion de lexemas
+!&gt;</Valor>
+    <Fila>15</Fila>
+    <Columna>2</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>er1</Valor>
+    <Fila>17</Fila>
+    <Columna>3</Columna>
+  </token>
+  <token>
+    <Nombre>Dos puntos </Nombre>
+    <Valor>:</Valor>
+    <Fila>17</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"abecedario_cadena1_cadena2"</Valor>
+    <Fila>17</Fila>
+    <Columna>34</Columna>
+  </token>
+  <token>
+    <Nombre>punto y coma </Nombre>
+    <Valor>;</Valor>
+    <Fila>17</Fila>
+    <Columna>34</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>er1</Valor>
+    <Fila>18</Fila>
+    <Columna>3</Columna>
+  </token>
+  <token>
+    <Nombre>Dos puntos </Nombre>
+    <Valor>:</Valor>
+    <Fila>18</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"z"</Valor>
+    <Fila>18</Fila>
+    <Columna>9</Columna>
+  </token>
+  <token>
+    <Nombre>punto y coma </Nombre>
+    <Valor>;</Valor>
+    <Fila>18</Fila>
+    <Columna>9</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>er1</Valor>
+    <Fila>19</Fila>
+    <Columna>3</Columna>
+  </token>
+  <token>
+    <Nombre>Dos puntos </Nombre>
+    <Valor>:</Valor>
+    <Fila>19</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"1uno"</Valor>
+    <Fila>19</Fila>
+    <Columna>12</Columna>
+  </token>
+  <token>
+    <Nombre>punto y coma </Nombre>
+    <Valor>;</Valor>
+    <Fila>19</Fila>
+    <Columna>12</Columna>
+  </token>
+  <token>
+    <Nombre>Comentario de linea</Nombre>
+    <Valor>//error
+</Valor>
+    <Fila>20</Fila>
+    <Columna>0</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>er2</Valor>
+    <Fila>20</Fila>
+    <Columna>3</Columna>
+  </token>
+  <token>
+    <Nombre>Dos puntos </Nombre>
+    <Valor>:</Valor>
+    <Fila>20</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"aaaa"</Valor>
+    <Fila>20</Fila>
+    <Columna>12</Columna>
+  </token>
+  <token>
+    <Nombre>punto y coma </Nombre>
+    <Valor>;</Valor>
+    <Fila>20</Fila>
+    <Columna>12</Columna>
+  </token>
+  <token>
+    <Nombre>Comentario de linea</Nombre>
+    <Valor>//error
+</Valor>
+    <Fila>21</Fila>
+    <Columna>0</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>er2</Valor>
+    <Fila>21</Fila>
+    <Columna>3</Columna>
+  </token>
+  <token>
+    <Nombre>Dos puntos </Nombre>
+    <Valor>:</Valor>
+    <Fila>21</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"bcdddd"</Valor>
+    <Fila>21</Fila>
+    <Columna>14</Columna>
+  </token>
+  <token>
+    <Nombre>punto y coma </Nombre>
+    <Valor>;</Valor>
+    <Fila>21</Fila>
+    <Columna>14</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>er2</Valor>
+    <Fila>22</Fila>
+    <Columna>3</Columna>
+  </token>
+  <token>
+    <Nombre>Dos puntos </Nombre>
+    <Valor>:</Valor>
+    <Fila>22</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"bcd"</Valor>
+    <Fila>22</Fila>
+    <Columna>11</Columna>
+  </token>
+  <token>
+    <Nombre>punto y coma </Nombre>
+    <Valor>;</Valor>
+    <Fila>22</Fila>
+    <Columna>11</Columna>
+  </token>
+  <token>
+    <Nombre>Identificador</Nombre>
+    <Valor>er2</Valor>
+    <Fila>23</Fila>
+    <Columna>3</Columna>
+  </token>
+  <token>
+    <Nombre>Dos puntos </Nombre>
+    <Valor>:</Valor>
+    <Fila>23</Fila>
+    <Columna>4</Columna>
+  </token>
+  <token>
+    <Nombre>cadena</Nombre>
+    <Valor>"ababcdabcdbc"</Valor>
+    <Fila>23</Fila>
+    <Columna>20</Columna>
+  </token>
+  <token>
+    <Nombre>punto y coma </Nombre>
+    <Valor>;</Valor>
+    <Fila>23</Fila>
+    <Columna>20</Columna>
+  </token>
+  <token>
+    <Nombre>Comentario de linea</Nombre>
+    <Valor>//error falta d al final
+</Valor>
+    <Fila>24</Fila>
+    <Columna>0</Columna>
+  </token>
+  <token>
+    <Nombre>comentario multilinea</Nombre>
+    <Valor>&lt;!
+	Fin del archivo
+!&gt;</Valor>
+    <Fila>27</Fila>
+    <Columna>2</Columna>
+  </token>
+</Lista_Token>
